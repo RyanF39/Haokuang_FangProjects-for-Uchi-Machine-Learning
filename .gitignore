@@ -1,0 +1,12 @@
+# Ignore large dataset folder
+bigdata/
+
+# Ignore private keys/notes
+private/
+
+# Ignore Mac system files
+.DS_Store
+
+# Ignore Python cache
+__pycache__/
+*.pyc
